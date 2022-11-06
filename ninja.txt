@@ -1,1 +1,1 @@
-ServerTam:0.tcp.ap.ngrok.io:11859
+Tam:0.tcp.ap.ngrok.io:11859
